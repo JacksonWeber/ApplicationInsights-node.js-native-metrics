@@ -1,3 +1,6 @@
+> [!WARNING]
+> This package is deprecated. Use upstream OpenTelemetry JavaScript runtime/performance metrics instrumentation, [`@opentelemetry/instrumentation-runtime-node`](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/packages/instrumentation-runtime-node), instead.
+
 # ApplicationInsights Node.js Native Metrics
 Native Metrics Agent for the Application Insights Node.js SDK
 
